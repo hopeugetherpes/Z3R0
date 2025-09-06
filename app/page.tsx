@@ -209,7 +209,7 @@ export default function EncryptionTool() {
                 href="https://github.com/hopeugetherpes/Z3R0"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-2 px-4 py-2 text-[#32709c] hover:text-[#2a5f87] transition-colors"
+                className="flex items-center justify-center w-10 h-10 rounded-full bg-[#32709c] text-white hover:bg-[#2a5f87] transition-colors"
               >
                 <Github className="h-5 w-5 fill-current" />
               </a>
@@ -532,17 +532,7 @@ export default function EncryptionTool() {
         <div className="container mx-auto px-4 py-8">
           <div className="text-center text-gray-300">
             <div className="text-center">
-              <p className="text-gray-300 mb-2">
-                Free and Open Source - By{" "}
-                <a
-                  href="https://anatole.co"
-                  className="font-bold text-[#32709c] hover:text-[#2a5f87] transition-colors"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  anatole.co
-                </a>
-              </p>
+              <p className="text-gray-300 mb-2">Free and Open Source - Privacy by design</p>
               <p className="text-gray-300">
                 <a
                   href="https://creativecommons.org/public-domain/cc0/"
