@@ -1,17 +1,15 @@
-<img width="150" height="150" alt="logo Z3R0" src="https://github.com/user-attachments/assets/a4aefa7d-394d-41ec-9044-fcaabd2477cf" />
-
 # Z3R0 🔒
 
-**Local file encryption tool that works entirely in your browser**
+**Ultra-secure local file encryption tool that works entirely in your browser**
 
 Z3R0 is a modern, privacy-focused file encryption application that allows you to encrypt and decrypt any file type locally in your browser without any data ever leaving your device. Built with security and privacy as core principles.
 
 ## 🚀 Purpose
 
-Z3R0 provides industry grade AES-256-GCM encryption for any file type, ensuring your sensitive data remains completely private. Whether you're protecting personal documents, business files, or media content, Z3R0 offers enterprise-level security with consumer-friendly simplicity.
+Z3R0 provides military-grade AES-256-GCM encryption for any file type, ensuring your sensitive data remains completely private. Whether you're protecting personal documents, business files, or media content, Z3R0 offers enterprise-level security with consumer-friendly simplicity.
 
 **Key Features:**
-- 🔐 **AES-256-GCM Encryption** - Industry grade security using Web Crypto API
+- 🔐 **AES-256-GCM Encryption** - Military-grade security using Web Crypto API
 - 📁 **Universal File Support** - Encrypt any file type (documents, images, videos, etc.)
 - 🚫 **No Size Limits** - Handle files of any size without restrictions  
 - 🌐 **100% Local Processing** - Zero server communication, complete privacy
@@ -66,6 +64,10 @@ Z3R0 implements industry-standard cryptographic practices:
 - **Authentication**: Built-in authentication tag prevents tampering
 - **Implementation**: Native Web Crypto API (no third-party crypto libraries)
 
+## 🔄 Fork Information
+
+Z3R0 is a modern fork of [hat.sh](https://hat.sh), reimagined with enhanced security features, improved user experience, and expanded functionality. We extend our gratitude to the original hat.sh project and its contributors for laying the foundation for secure browser-based encryption.
+
 ## 🙏 Acknowledgments
 
 Special thanks to:
@@ -102,8 +104,8 @@ See [LICENSE](https://creativecommons.org/publicdomain/zero/1.0/) for details.
 
 ## 🔗 Links
 
-- **Website**: [Z3R0 Encryption Tool](https://z3r0.app)
-- **Creator**: [HopeUGetHerpes](https://github.com/hopeugetherpes)
+- **Website**: [Z3R0 Encryption Tool](https://z3r0.anatole.co)
+- **Creator**: [anatole.co](https://anatole.co)
 - **Repository**: [GitHub](https://github.com/hopeugetherpes/Z3R0)
 - **License**: [CC0 Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
 

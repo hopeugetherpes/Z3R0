@@ -24,10 +24,8 @@ import {
   Github,
   Eye,
   EyeOff,
-  Zap,
   UserX,
   Database,
-  Globe,
   Clock,
 } from "lucide-react"
 import Image from "next/image"
@@ -424,7 +422,7 @@ export default function EncryptionTool() {
           <div className="mt-8">
             <Card className="bg-gray-900/70 border-gray-700 backdrop-blur-sm">
               <CardContent className="pt-6">
-                <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 text-center">
+                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-4 text-center">
                   <div className="flex flex-col items-center gap-2">
                     <div className="w-8 h-8 rounded-full bg-green-500 flex items-center justify-center">
                       <FileText className="h-4 w-4 text-white" />
@@ -465,22 +463,10 @@ export default function EncryptionTool() {
                     <span className="text-xs text-gray-300">Zero Data Collection</span>
                   </div>
                   <div className="flex flex-col items-center gap-2">
-                    <div className="w-8 h-8 rounded-full bg-yellow-500 flex items-center justify-center">
-                      <Zap className="h-4 w-4 text-white" />
-                    </div>
-                    <span className="text-xs text-gray-300">Ultra Fast</span>
-                  </div>
-                  <div className="flex flex-col items-center gap-2">
                     <div className="w-8 h-8 rounded-full bg-indigo-500 flex items-center justify-center">
                       <Database className="h-4 w-4 text-white" />
                     </div>
                     <span className="text-xs text-gray-300">No Server Storage</span>
-                  </div>
-                  <div className="flex flex-col items-center gap-2">
-                    <div className="w-8 h-8 rounded-full bg-pink-500 flex items-center justify-center">
-                      <Globe className="h-4 w-4 text-white" />
-                    </div>
-                    <span className="text-xs text-gray-300">Works Offline</span>
                   </div>
                 </div>
               </CardContent>
