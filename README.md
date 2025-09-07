@@ -1,15 +1,16 @@
 # Z3R0 🔒
 
-**Ultra-secure local file encryption tool that works entirely in your browser**
+**A Secure local file encryption tool that works entirely in your browser**
 
 Z3R0 is a modern, privacy-focused file encryption application that allows you to encrypt and decrypt any file type locally in your browser without any data ever leaving your device. Built with security and privacy as core principles.
 
 ## 🚀 Purpose
 
-Z3R0 provides military-grade AES-256-GCM encryption for any file type, ensuring your sensitive data remains completely private. Whether you're protecting personal documents, business files, or media content, Z3R0 offers enterprise-level security with consumer-friendly simplicity.
+Z3R0 provides AES-256-GCM encryption for any file type, ensuring your sensitive data remains completely private.
+Whether you're protecting personal documents, business files, or media content, Z3R0 offers enterprise-level security with consumer-friendly simplicity.
 
 **Key Features:**
-- 🔐 **AES-256-GCM Encryption** - Military-grade security using Web Crypto API
+- 🔐 **AES-256-GCM Encryption** - Industry-grade security using Web Crypto API
 - 📁 **Universal File Support** - Encrypt any file type (documents, images, videos, etc.)
 - 🚫 **No Size Limits** - Handle files of any size without restrictions  
 - 🌐 **100% Local Processing** - Zero server communication, complete privacy
@@ -27,11 +28,11 @@ Z3R0 provides military-grade AES-256-GCM encryption for any file type, ensuring 
 3. Drag and drop your file or click to select
 4. Enter a strong password (minimum 14 characters with numbers, uppercase, and special characters)
 5. Click "Encrypt File" to secure your data
-6. Download the encrypted file with `.enc` extension
+6. Download the encrypted file with `.encrypted` extension
 
 ### Decryption
 1. Select "Decrypt" mode
-2. Upload your encrypted `.enc` file
+2. Upload your encrypted `.encrypted` file
 3. Enter the same password used for encryption
 4. Click "Decrypt File" to restore your original file
 5. Download the decrypted file
@@ -66,7 +67,7 @@ Z3R0 implements industry-standard cryptographic practices:
 
 ## 🔄 Fork Information
 
-Z3R0 is a modern fork of [hat.sh](https://hat.sh), reimagined with enhanced security features, improved user experience, and expanded functionality. We extend our gratitude to the original hat.sh project and its contributors for laying the foundation for secure browser-based encryption.
+Z3R0 is a modern fork of [hat.sh](https://hat.sh.Z3R0.app), reimagined with enhanced security features, improved user experience, and expanded functionality. We extend our gratitude to the original hat.sh project and its contributors for laying the foundation for secure browser-based encryption.
 
 ## 🙏 Acknowledgments
 
@@ -104,8 +105,8 @@ See [LICENSE](https://creativecommons.org/publicdomain/zero/1.0/) for details.
 
 ## 🔗 Links
 
-- **Website**: [Z3R0 Encryption Tool](https://z3r0.anatole.co)
-- **Creator**: [anatole.co](https://anatole.co)
+- **Website**: [Z3R0 Encryption Tool](https://z3r0.app)
+- **Creator**: [HopeUGetHerpes](https://anatole.co/about)
 - **Repository**: [GitHub](https://github.com/hopeugetherpes/Z3R0)
 - **License**: [CC0 Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
 
