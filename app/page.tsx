@@ -204,7 +204,15 @@ export default function EncryptionTool() {
               <Image src="/logo-z3r0.png" alt="Z3R0 Logo" width={32} height={32} className="invert" />
               <h1 className="text-2xl font-bold text-white">Z3R0</h1>
             </div>
-            <div className="flex items-center gap-2">
+            <div className="flex items-center gap-3">
+              <a
+                href="https://pgp.z3r0.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center justify-center px-4 py-2 rounded-full bg-[#32709c] text-white hover:bg-[#2a5f87] transition-colors font-medium text-sm"
+              >
+                PGP-Offline
+              </a>
               <a
                 href="https://github.com/hopeugetherpes/Z3R0"
                 target="_blank"
